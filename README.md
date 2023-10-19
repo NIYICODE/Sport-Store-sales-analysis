@@ -31,3 +31,7 @@ The goal of this project is to analyze the trends in sales and ratings of the st
 - Loaded the exported data from SQL into tableaau for visualization
 - Created relationships; data modelling between the tables via model view in tableau
 - Designed my dashboard with the report and most important metrics
+
+Home Dashboard                                                                                          |  Ratings Dashboard
+:------------------------------------------------------------------------------------------------------:|  :--------------------------------------------------------------------------------------------------:
+ ![](https://github.com/NIYICODE/Sport-Store-sales-analysis/blob/main/Home%20Dashboard.png)             |  ![](https://github.com/NIYICODE/Sport-Store-sales-analysis/blob/main/Rating%20Dashboard.png)
