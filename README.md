@@ -35,3 +35,5 @@ The goal of this project is to analyze the trends in sales and ratings of the st
 Home Dashboard                                                                                          |  Ratings Dashboard
 :------------------------------------------------------------------------------------------------------:|  :--------------------------------------------------------------------------------------------------:
  ![](https://github.com/NIYICODE/Sport-Store-sales-analysis/blob/main/Home%20Dashboard.png)             |  ![](https://github.com/NIYICODE/Sport-Store-sales-analysis/blob/main/Rating%20Dashboard.png)
+
+ To interact with the dashboard in tableau public, click [here](https://public.tableau.com/views/OnlineSportsstoresalesdashboard/HomeDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
